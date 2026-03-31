@@ -1,4 +1,4 @@
-# Internship Management Frontend
+# Gestion de Stagiaires Frontend
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-Frontend-42b883)
 ![Vue Router](https://img.shields.io/badge/Vue%20Router-Navigation-4FC08D)
@@ -6,7 +6,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-UI-7952B3)
 ![Status](https://img.shields.io/badge/Status-Academic%20Project-blue)
 
-This repository contains the frontend of **Internship Management**, a full-stack web platform designed to simplify intern application handling and internship administration.
+This repository contains the frontend of **Gestion de Stagiaires**, a full-stack web platform designed to simplify intern application handling and internship administration.
 
 The frontend provides the user interface for administrators and interns to manage internship offers, internship requests, supervisors, intern records, forms, and dashboard views.
 
